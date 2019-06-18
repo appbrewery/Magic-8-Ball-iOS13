@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AD7D68C622B8EB54009C798B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD7D68C522B8EB54009C798B /* README.md */; };
 		ADE1FB4422B3A4B100DD2BD6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE1FB4322B3A4B100DD2BD6 /* AppDelegate.swift */; };
 		ADE1FB4622B3A4B100DD2BD6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE1FB4522B3A4B100DD2BD6 /* SceneDelegate.swift */; };
 		ADE1FB4822B3A4B100DD2BD6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE1FB4722B3A4B100DD2BD6 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AD7D68C522B8EB54009C798B /* README.md */ = {isa = PBXFileReference; explicitFileType = net.daringfireball.markdown; fileEncoding = 4; path = README.md; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.markdown; };
 		ADE1FB4022B3A4B100DD2BD6 /* Magic 8 Ball.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Magic 8 Ball.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADE1FB4322B3A4B100DD2BD6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ADE1FB4522B3A4B100DD2BD6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		ADE1FB3722B3A4B100DD2BD6 = {
 			isa = PBXGroup;
 			children = (
+				AD7D68C522B8EB54009C798B /* README.md */,
 				ADE1FB4222B3A4B100DD2BD6 /* Magic 8 Ball */,
 				ADE1FB4122B3A4B100DD2BD6 /* Products */,
 			);
@@ -127,6 +130,7 @@
 			files = (
 				ADE1FB5022B3A4B300DD2BD6 /* LaunchScreen.storyboard in Resources */,
 				ADE1FB4D22B3A4B300DD2BD6 /* Assets.xcassets in Resources */,
+				AD7D68C622B8EB54009C798B /* README.md in Resources */,
 				ADE1FB4B22B3A4B100DD2BD6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
